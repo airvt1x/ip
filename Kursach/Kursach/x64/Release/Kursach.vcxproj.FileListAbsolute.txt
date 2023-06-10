@@ -1,0 +1,4 @@
+C:\Users\Airat\source\repos\Kursach\Kursach\x64\Release\Kursach.vcxproj.AssemblyReference.cache
+C:\Users\Airat\source\repos\Kursach\Kursach\x64\Release\Kursach.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Airat\source\repos\Kursach\Kursach\x64\Release\Kursach.Calc.resources
+C:\Users\Airat\source\repos\Kursach\Kursach\x64\Release\Kursach.vcxproj.GenerateResource.cache

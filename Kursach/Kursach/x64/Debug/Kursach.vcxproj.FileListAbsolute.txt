@@ -1,0 +1,2 @@
+C:\Users\Airat\source\repos\Kursach\Kursach\x64\Debug\Kursach.vcxproj.AssemblyReference.cache
+C:\Users\Airat\source\repos\Kursach\Kursach\x64\Debug\Kursach.vcxproj.SuggestedBindingRedirects.cache

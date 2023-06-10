@@ -1,0 +1,4 @@
+﻿  Calc.cpp
+C:\Users\Airat\source\repos\Kursach\Kursach\Calc.h(298,14): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  Calc.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Kursach.vcxproj -> C:\Users\Airat\source\repos\Kursach\x64\Release\Kursach.exe
